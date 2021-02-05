@@ -1,6 +1,5 @@
 subchan
 =====
 
-"Fork subchan" to create a new MOOSE-based application.
+A new MOOSE-based application for subchannel analysis.
 
-For more information see: [http://mooseframework.org/create-an-app/](http://mooseframework.org/create-an-app/)
